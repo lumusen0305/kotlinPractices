@@ -14,12 +14,6 @@
   <component name="ChangeListManager">
     <list default="true" id="463ccd3e-dc5c-4f5f-9822-2d20459d2fcc" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/guesstheword/screens/game/GameViewModel.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidTrivia-Starter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AndroidTrivia-Starter/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DessertClicker-Starter/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../DessertClicker-Starter/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DessertClicker-Starter/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../DessertClicker-Starter/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DessertClicker-Starter/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../DessertClicker-Starter/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DessertClicker-Starter/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DessertClicker-Starter/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DessertClicker-Starter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DessertClicker-Starter/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/guesstheword/screens/game/GameFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/guesstheword/screens/game/GameFragment.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/guesstheword/screens/score/ScoreFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/guesstheword/screens/score/ScoreFragment.kt" afterDir="false" />
