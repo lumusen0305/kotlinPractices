@@ -23,7 +23,6 @@
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ColorMyViews/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ColorMyViews/.idea/gradle.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +60,7 @@
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-07-31T21:32:12.140087Z" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="android-custom-view/home/user/.gradle/caches/modules-2/files-2.1/androidx.drawerlayout/drawerlayout/1.1.0/f4516e0a6de10a12676b8552db676a1a3863e59/drawerlayout-1.1.0-sources.jar!/androidx/drawerlayout/widget/DrawerLayout.java_SELECTED" value="DrawerLayout" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DessertClicker-Starter" />
     <property name="memory.settings.postsync.last.time.stamp" value="1627997362182" />
   </component>
   <component name="RunManager">
@@ -173,10 +172,10 @@
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
     <state x="2780" y="482" width="840" height="502" key="AndroidCreateResourceFileDialog/0.24.1920.1056/1920.0.2560.1440@1920.0.2560.1440" timestamp="1627771450978" />
-    <state x="2930" y="431" key="FileChooserDialogImpl" timestamp="1627927704483">
+    <state x="2930" y="431" width="540" height="602" key="FileChooserDialogImpl" timestamp="1628000347078">
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
-    <state x="2930" y="431" key="FileChooserDialogImpl/0.24.1920.1056/1920.0.2560.1440@1920.0.2560.1440" timestamp="1627927704483" />
+    <state x="2930" y="431" width="540" height="602" key="FileChooserDialogImpl/0.24.1920.1056/1920.0.2560.1440@1920.0.2560.1440" timestamp="1628000347078" />
     <state width="2498" height="381" key="GridCell.Tab.0.bottom" timestamp="1627765780771">
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>

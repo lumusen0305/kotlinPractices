@@ -15,7 +15,7 @@
   <component name="ChangeListManager">
     <list default="true" id="24a7ec5a-aaeb-423c-b909-d05fa937ad10" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/dessertclicker/ClickerApplication.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ColorMyViews/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ColorMyViews/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTrivia-Starter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AndroidTrivia-Starter/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/dessertclicker/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/dessertclicker/MainActivity.kt" afterDir="false" />
@@ -49,7 +49,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AndroidTrivia-Starter" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GuessTheWord-Starter" />
     <property name="memory.settings.postsync.last.time.stamp" value="1627993724596" />
   </component>
   <component name="RunManager">
@@ -157,10 +157,10 @@
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
     <state x="2929" y="384" key="#com.intellij.ide.util.MemberChooser/0.24.1920.1056/1920.0.2560.1440@1920.0.2560.1440" timestamp="1627995272803" />
-    <state x="2930" y="434" key="FileChooserDialogImpl" timestamp="1627997269525">
+    <state x="2930" y="434" key="FileChooserDialogImpl" timestamp="1628000980485">
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
-    <state x="2930" y="434" key="FileChooserDialogImpl/0.24.1920.1056/1920.0.2560.1440@1920.0.2560.1440" timestamp="1627997269525" />
+    <state x="2930" y="434" key="FileChooserDialogImpl/0.24.1920.1056/1920.0.2560.1440@1920.0.2560.1440" timestamp="1628000980485" />
     <state width="2498" height="381" key="GridCell.Tab.0.bottom" timestamp="1627995310439">
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
