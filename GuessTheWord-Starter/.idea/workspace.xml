@@ -52,7 +52,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TrackMySleepQuality-Starter" />
     <property name="memory.settings.postsync.last.time.stamp" value="1628001025229" />
   </component>
   <component name="RunManager">
@@ -160,6 +160,10 @@
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
     <state x="2929" y="381" key="#com.intellij.ide.util.MemberChooser/0.24.1920.1056/1920.0.2560.1440@1920.0.2560.1440" timestamp="1628108579251" />
+    <state x="2930" y="431" key="FileChooserDialogImpl" timestamp="1628205747521">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2930" y="431" key="FileChooserDialogImpl/0.24.1920.1056/1920.0.2560.1440@1920.0.2560.1440" timestamp="1628205747521" />
     <state width="2498" height="344" key="GridCell.Tab.0.bottom" timestamp="1628114929423">
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
