@@ -10,7 +10,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58912d37-b9b7-4618-b350-3e3a5339c0bb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../GuessTheWord-Starter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GuessTheWord-Starter/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/example/android/trackmysleepquality/SleepDatabaseTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/example/android/trackmysleepquality/SleepDatabaseTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/Util.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/Util.kt" afterDir="false" />
@@ -49,7 +48,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RecyclerViewFundamentals-Starter" />
     <property name="memory.settings.postsync.last.time.stamp" value="1628205820627" />
   </component>
   <component name="RunManager" selected="Android App.app">
@@ -209,6 +208,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2247" y="290" width="540" height="602" key="FileChooserDialogImpl" timestamp="1628442660119">
+      <screen x="1366" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2247" y="290" width="540" height="602" key="FileChooserDialogImpl/0.24.1366.744/1366.0.2560.1440@1366.0.2560.1440" timestamp="1628442660119" />
     <state width="1249" height="381" key="GridCell.Tab.0.bottom" timestamp="1628251158815">
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
